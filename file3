@@ -1,0 +1,26 @@
+We bring the awesome Git SCM to Windows
+
+
+
+
+branching statrategy:
+
+
+developers --feature branch
+
+pr  : merging of code from one branch to antohte 
+
+standard /nonstandard
+
+developers lead -- develop branch  --development env -- test --working
+
+Pull request 
+
+release branch --- release env /qualification env /qual env
+
+Pull request
+
+Master  ---  production env /prod env    ---(hotfix branch)
+
+
+hotfix branch is adding for making changes in the prod
